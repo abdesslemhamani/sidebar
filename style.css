@@ -62,7 +62,9 @@ body {
     padding: 1rem 1.5rem;
 }
 
-
+.logo {
+    margin-left: -15px;
+}
 
 @media (min-width: 676px) {
     .sidebar {
